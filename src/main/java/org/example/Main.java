@@ -2,6 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        // Bu dosya boş kalabilir - testler MainTest.java dosyasında çalışacak
+        System.out.println("Program çalışıyor. Testler MainTest.java dosyasında bulunuyor.");
     }
 }
